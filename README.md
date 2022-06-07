@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Here+Is+LoveLoliii's+Page;你好+陌生人+！&color=c04851)](https://github.com/LoveLoliii)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=倾心微重+细思方觉痛;慕然止语+不是旧时忆;对影成双+相思存好梦&color=c04851)](https://github.com/LoveLoliii)
 
 #### Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveLoliii&show_icons=true)](https://github.com/LoveLoliii)
