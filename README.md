@@ -8,6 +8,9 @@
 <a href="https://github.com/kokolokksk/catcat-dm-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-dm-react" />
 </a> 
+<a href="https://github.com/kokolokksk/catcat-je-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-je-react" />
+</a>
 
 ### others
 [![Visits Badge](https://badges.pufler.dev/visits/loveloliii/loveloliii)](https://github.com/LoveLoliii)
