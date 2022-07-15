@@ -12,6 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-je-react" />
 </a>
 
+<a href="https://github.com/CatCatBot/guild-bot-lalafell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CatCatBot&repo=guild-bot-lalafell" />
+</a>
+
 ### others
 [![Visits Badge](https://badges.pufler.dev/visits/loveloliii/loveloliii)](https://github.com/LoveLoliii)
 
