@@ -15,6 +15,9 @@
 <a href="https://github.com/CatCatBot/guild-bot-lalafell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CatCatBot&repo=guild-bot-lalafell" />
 </a>
+<a href="https://github.com/CatCatBot/where-is-Lalafell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CatCatBot&repo=where-is-Lalafell" />
+</a>
 
 ### others
 [![Visits Badge](https://badges.pufler.dev/visits/loveloliii/loveloliii)](https://github.com/LoveLoliii)
