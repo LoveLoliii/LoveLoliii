@@ -1,5 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=倾心微重+细思方觉痛;慕然止语+不是旧时忆;对影成双+相思存好梦&color=c04851)](https://github.com/LoveLoliii)
 
+点击加入QQ频道【[拉拉肥](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=3XQuR&businessType=9&from=181074&biz=ka&shareSource=5)】
+
 #### Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveLoliii&show_icons=true)](https://github.com/LoveLoliii)
 #### Language
@@ -23,6 +25,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/loveloliii/loveloliii)](https://github.com/LoveLoliii)
 
 ### last
-![](https://s3.bmp.ovh/imgs/2022/05/22/d50c6cd003ba6e19.png)
-![](https://s3.bmp.ovh/imgs/2022/05/25/f2638f104c8d47ca.png)
+
 
