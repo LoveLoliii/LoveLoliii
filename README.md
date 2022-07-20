@@ -22,8 +22,7 @@
 </a>
 
 ### others
-[![Visits Badge](https://badges.pufler.dev/visits/loveloliii/loveloliii)](https://github.com/LoveLoliii)
-
+[![HitCount](https://hits.dwyl.com/loveloliii/loveloliii.svg?style=flat-square&show=unique)](http://hits.dwyl.com/loveloliii/loveloliii)
 ### last
 
 
