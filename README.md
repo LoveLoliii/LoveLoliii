@@ -22,7 +22,7 @@
 </a>
 
 ### others
-[![HitCount](https://hits.dwyl.com/loveloliii/loveloliii.svg?style=flat-square&show=unique)](http://hits.dwyl.com/loveloliii/loveloliii)
+[![HitCount](https://hits.dwyl.com/loveloliii/loveloliii.svg?style=flat-square)](http://hits.dwyl.com/loveloliii/loveloliii)
 ### last
 
 
