@@ -9,16 +9,9 @@
 #### repos
 <a href="https://github.com/kokolokksk/catcat-dm-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-dm-react" />
-</a> 
-<a href="https://github.com/kokolokksk/catcat-je-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-je-react" />
-</a>
 
 <a href="https://github.com/CatCatBot/guild-bot-lalafell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CatCatBot&repo=guild-bot-lalafell" />
-</a>
-<a href="https://github.com/CatCatBot/where-is-Lalafell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CatCatBot&repo=where-is-Lalafell" />
 </a>
 
 ### others
