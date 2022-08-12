@@ -10,6 +10,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RiRiRa&repo=ririra" />
 </a>
 
+#### ☆☆ 弹幕姬 ☆☆
+
+<a href="https://github.com/kokolokksk/catcat-dm-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=catcat-dm-react" />
+</a>
+
 #### Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveLoliii&show_icons=true)](https://github.com/LoveLoliii)
 #### Language
