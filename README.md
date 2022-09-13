@@ -5,6 +5,8 @@
 
 ![pongpongpong](https://raw.githubusercontent.com/Ririra/ririra/ririra/building.gif)
 
+#### 🎃 精通 Java Kotlin Go Python ts js c oc Swift c++ c# php Ruby Rust vb   
+
 #### ☆☆ 莉莉菈 ☆☆
 
 <a href="https://github.com/RiRiRa/ririra">
