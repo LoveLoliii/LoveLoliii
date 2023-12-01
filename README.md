@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=幻影群岛-花气袭人 <春田花花幼儿园>！&color=66ccff)](https://github.com/LoveLoliii)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=幻影群岛,花气袭人,<春田花花幼儿园>！&color=66ccff)](https://github.com/LoveLoliii)
 ![](https://user-images.githubusercontent.com/12725100/186632584-cc43fe00-b5ef-419f-aebd-481cdbe529e9.gif)
 
 🔨点击加入QQ频道!【[拉拉肥](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=3XQuR&businessType=9&from=181074&biz=ka&shareSource=5)】
