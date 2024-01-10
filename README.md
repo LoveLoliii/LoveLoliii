@@ -7,6 +7,12 @@
 
 #### 🎃 just do it !   
 
+#### ☆☆ 饿了喵 ☆☆
+
+<a href="https://github.com/kokolokksk/fish-ffxiv-plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kokolokksk&repo=fish-ffxiv-plugin" />
+</a>
+
 #### ☆☆ 弹幕姬 ☆☆
 
 <a href="https://github.com/kokolokksk/catcat-dm-react">
